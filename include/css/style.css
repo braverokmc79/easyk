@@ -1,7 +1,7 @@
 @import "style.css";
 @charset "UTF-8";
 
-@font-face{  font-family: 'NanumSquareOTFR';  src: url('/font/NanumSquareOTFR/NanumSquareOTFR.eot');  src: local('?'), url('/font/NanumSquareOTFR/NanumSquareOTFR.woff') format('woff'), url('/font/NanumSquareOTFR/NanumBarunGothicBold.ttf') format('truetype'); }
+@font-face{  font-family: 'NanumSquareOTFR';  src: url('https://raw.githubusercontent.com/braverokmc79/easyk/master/include/font/NanumSquareOTFR/NanumSquareOTFR.eot');  src: local('?'), url('https://raw.githubusercontent.com/braverokmc79/easyk/master/include/font/NanumSquareOTFR/NanumSquareOTFR.woff') format('woff'), url('https://raw.githubusercontent.com/braverokmc79/easyk/master/include/font/NanumSquareOTFR/NanumBarunGothicBold.ttf') format('truetype'); }
 
 html, body { margin:0; padding:0; }
 
