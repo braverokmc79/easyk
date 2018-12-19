@@ -1,7 +1,9 @@
 @import "style.css";
 @charset "UTF-8";
 
-@font-face{  font-family: 'NanumSquareOTFR';  src: url('https://cdn.rawgit.com/braverokmc79/easyk/master/include/font/NanumSquareOTFR.eot');  src: local('?'), url('https://cdn.rawgit.com/braverokmc79/easyk/master/include/font/NanumSquareOTFR.woff') format('woff'), url('https://cdn.rawgit.com/braverokmc79/easyk/master/include/font/NanumBarunGothicBold.ttf') format('truetype'); }
+@font-face{  font-family: 'NanumSquareOTFR';  src: url('https://cdn.jsdelivr.net/gh/braverokmc79/easyk@1.0.0/include/font/NanumSquareOTFR.eot');  src: local('?'),
+  url('https://cdn.jsdelivr.net/gh/braverokmc79/easyk@1.0.0/include/font/NanumSquareOTFR.woff') format('woff'), 
+  url('https://cdn.jsdelivr.net/gh/braverokmc79/easyk@1.0.0/include/font/NanumBarunGothicBold.ttf') format('truetype'); }
 
 html, body { margin:0; padding:0; }
 
